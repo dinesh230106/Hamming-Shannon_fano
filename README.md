@@ -61,6 +61,8 @@ print(f"Variance is : {var}")
 ![Screenshot 2025-03-24 105550](https://github.com/user-attachments/assets/787390ec-a57e-42ab-a4cf-04df305e3ea0)
 
 # calculations:
+![Screenshot 2025-03-27 195533](https://github.com/user-attachments/assets/c8cb46d3-18df-449e-9c50-e550525eda11)
+
 ![Screenshot 2025-03-24 110442](https://github.com/user-attachments/assets/a17dd980-e539-454c-b93d-b1d1f7a79bb9)
 
 ![Screenshot 2025-03-24 110503](https://github.com/user-attachments/assets/4646371d-b727-475a-a8a5-e96c886e38ab)
